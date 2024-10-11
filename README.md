@@ -4,7 +4,7 @@ Our simulation model builds off of Porter et al. (2017) and is based on the prem
 
 Our diploid model consists of two unlinked interacting genes, A and B. The alternative alleles of Gene A codes for TFs that have opposite effects on the expression of Gene B, and Gene B’s expression is under additive sexually antagonistic selection. Gene A’s experession is determined by cis-regulatory binding site that can mutate/evolve toward being a better binder of either the male- or female-limited regulatory stimuli, approximating sex-limited hormones. Gene B's expression is determined by cis-regulatory binding site that can mutate/evolve toward being a better binder to either of the TFs expressed by Gene A. Finally, fitness is determined by the expression of Gene B, where females and males benefit from increased and decreased expression, respectively. There is no dominance coefficient; sex-specific dominance reversal for fitness between Gene A's alleles evolves at the genotype-expression level as an emergent property of their fractional occupancy of Gene B’s binding site. Populations are simulated following the standard Wright-Fisher model with discrete, non-overlapping generations undergoing mutation, reproduction and selection. 
 
-Please refer to our publication (Grieshop et al. 2023) and supplementary documents for a detailed description of the model and its parameters.
+Please refer to our publication (Grieshop et al. 2024) and supplementary documents for a detailed description of the model and its parameters.
 
 
 # Dependencies
@@ -154,6 +154,6 @@ This file outputs properties for each individual at the final generation of the 
 | absFitness | Absolute fitness of individual.                                                                                                                   |
 
 # References
-Porter, AH., Johnson, NA. & Tulchinsky, AY. A New Mechanism for Mendelian Dominance in Regulatory Genetic Pathways: Competitive Binding by Transcription Factors. Genetics 205, 101–112 (2017).
+Porter, AH., Johnson, NA. & Tulchinsky, AY. (2017) A New Mechanism for Mendelian Dominance in Regulatory Genetic Pathways: Competitive Binding by Transcription Factors. Genetics 205, 101–112.
 
-Grieshop, K., Ho, EKH. & Kasimatis, KR. Dominance reversals and the maintenance of genetic variation. *In review.* (2023).
+Grieshop K, Ho EK, Kasimatis KR. (2024) Dominance reversals: the resolution of genetic conflict and maintenance of genetic variation. Proceedings of the Royal Society B, 291(2018), p20232816. (doi: 10.1098/rspb.2023.2816)
