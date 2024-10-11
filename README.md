@@ -154,6 +154,6 @@ This file outputs properties for each individual at the final generation of the 
 | absFitness | Absolute fitness of individual.                                                                                                                   |
 
 # References
-Porter, AH., Johnson, NA. & Tulchinsky, AY. (2017) A New Mechanism for Mendelian Dominance in Regulatory Genetic Pathways: Competitive Binding by Transcription Factors. Genetics 205, 101–112.
+Porter AH, Johnson NA, Tulchinsky A. (2017) A New Mechanism for Mendelian Dominance in Regulatory Genetic Pathways: Competitive Binding by Transcription Factors. Genetics 205, 101–112.
 
-Grieshop K, Ho EK, Kasimatis KR. (2024) Dominance reversals: the resolution of genetic conflict and maintenance of genetic variation. Proceedings of the Royal Society B, 291(2018), p20232816. (doi: 10.1098/rspb.2023.2816)
+Grieshop K, Ho EKH, Kasimatis KR. (2024) Dominance reversals: the resolution of genetic conflict and maintenance of genetic variation. Proceedings of the Royal Society B, 291(2018), p20232816. (doi: 10.1098/rspb.2023.2816)
